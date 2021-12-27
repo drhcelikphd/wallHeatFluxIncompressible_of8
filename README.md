@@ -1,5 +1,5 @@
 # wallHeatFluxIncompressible utility for OpenFOAM v8
-This utility originally published in [this](https://github.com/wyldckat/wallHeatFluxIncompressible) repository. I just made it work on OpenFOAM v8. Please refer to original repository for techical details. Feel free to reach me in case of any compiling problem.
+This utility originally published in [this](https://github.com/wyldckat/wallHeatFluxIncompressible) repository. I just made it work on OpenFOAM v8. Please refer to the original repository for techical details. Feel free to reach me in case of any compiling problem.
 
 # Building on OpenFOAM v8
 
